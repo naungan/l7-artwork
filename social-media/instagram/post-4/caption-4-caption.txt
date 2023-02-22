@@ -1,0 +1,5 @@
+ElForkane Quran digital tersedia di LangitKetujuh OS. Kelebihannya sudah ada tafsir dan terjemahan yang cukup lengkap. Bahkan sudah ada audio offline dari Sheikh Saad Al-Gamdi yang kurang lebih 450MB ketika diunduh. Aplikasi ini dikembangkan dari proyek AYAT dari KSU-Electronic Moussaf (King Saud University). Kalau yang ngga pakai audio, bisa pakai mTafsir yang lebih ringan. Ukurannya sekitar 40MB.
+
+Sambil produktif atau ndisen gitu tentu tambah semangat kalau denger murottal yang adem. Makin betah ya kan..
+
+#l7os #langitketujuh #langitketujuhos #linuxdesain #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio #quran #qurandigital

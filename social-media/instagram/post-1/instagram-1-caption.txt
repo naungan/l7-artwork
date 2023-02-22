@@ -1,0 +1,26 @@
+Alhamdulillah biidznillah. Akhirnya rilis juga.
+
+Kenalin..
+LANGITKETUJUH OS
+Sistem operasi GNU/Linux berdasar dari voidlinux yang dibuat khusus untuk desainer, ilustrator, animator, publisher, fotografer, font kreator dan game desainer.
+.
+Yes! Sekali install kamu sudah dapat semua...
+* Inkscape, Gimp dan Krita. Untuk keperluan Ilustrasi dan Lukis.
+* Blender 3D, Opentoonz dan Synfig studio untuk Animasi 2D/3D.
+* Fontforge untuk para Font kreator.
+* Godot Engine sebagai Mesin Game 2D/3D. 
+* Scribus untuk Desain layout.
+* digiKam dan Rawtherapee untuk Fotografi dan Manajemen Gambar.
+* Kdenlive, Audacity dan OBS-Studio. Aplikasi Audio dan Video Non-linear Editor.
+* LibreOffice untuk keperluan perkantoran.
+* Dan menariknya lagi, di Langit Ketujuh sudah terinstall font Google Font dan berbagai fitur menarik lainnya! 
+
+Lalu, Apakah LangitKetujuh ini benar-benar hanya khusus untuk desainer saja?
+Eits, tentu tidak. Untuk keperluan umum pun bisa menggunakannya karena ada versi "lite".
+
+Selengkapnya kamu bisa kunjungi website kami di bio atau klik https://langitketujuh.id.
+
+Gabung juga di kanal telegram kami ya https://t.me/langitketujuhID.
+Jazaakallahu khoyran.
+
+#desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio

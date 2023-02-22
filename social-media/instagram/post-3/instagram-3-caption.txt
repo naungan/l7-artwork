@@ -1,0 +1,9 @@
+CoreCtrl ini akan membantu kamu meningkatkan performa core yang ada di mesin CPU kamu. Ketika lagi ndisen dengan inkscape atau krita, ngga gampang ngelag. Atau lagi asyik edit video dengan kdenlive kamu ngga masalah tentang lamanya render. Setidaknya keangkat performanya dengan CoreCtrl ini.
+
+Di LangitKetujuh OS yang terbaru rilis 20220710 kemarin sudah ada aplikasinya, kamu buat profilnya saja. Entah profil inkscape, gimp, krita, kdenlive, blender, atau game sekalipun. Jika corectrl belum terinstall, jalanin ini di konsole: get corectrl. Tunggu sampai prosesnya selesai.
+
+Kalau kamu pakai AMD maka sangat kompatibel dengan CoreCtrl. CoreCtrl cuma ada di linux aja lho, di windows ngga ada. Kami menyarankan banget untuk memasang nih aplikasi bagi yang pakai linux.
+
+Oh ya, jika belum gabung di komunitas join aja telegram atau facebook. Link ada di bio.
+
+#l7os #langitketujuh #langitketujuhos #linuxdesain #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio

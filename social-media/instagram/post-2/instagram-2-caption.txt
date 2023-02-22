@@ -1,0 +1,13 @@
+Rilis LangitKetujuh OS 20220710
+
+Alhamdulillah, akhirnya rilis lagi. Pada versi ini fokus pada pembenahan audio, shell dan manajemen servis. Serta penambahan beberapa fitur baru seperti corectrl, plasma vault, goxeleditor, carla dan cadence untuk podcast. Kernel yang kami gunakan pakai linux5.18 yang terbaru.
+
+Untuk pengguna Studio, silakan mengisi form kirim ulang agar mendapatkan edisi studio yang terbaru (linknya ada di bio). Catatan rilis selengkapnya ada di https://langitketujuh.id/blog/catatan-rilis-langitketujuh-os-20220710/
+
+Ohya kami membutuhkan feedback bagi yang sudah menggunakan OS ini. Segala masukan kami apresiasi. Jangan lupa gabung juga di komunitas telegram: @langitketujuh_group.
+
+Yang sudah pake nih os, tag #l7os yaa..
+
+Jazaakumullahu khairan.
+
+#l7os #langitketujuh #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio
