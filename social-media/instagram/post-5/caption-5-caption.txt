@@ -1,11 +1,17 @@
+# INSTAGRAM
+
 Suka dengerin podcast? Sekarang sudah ada KASTS aplikasi podcast yang terintegrasi KDE plasma. Bisa diunduh untuk dijalankan secara offline, manajemen episode, fitur pencarian, antrian, dan tentunya gratis.
 
 Aplikasi ini cukup banget buat nyari tips, ide dan inspirasi. Tetap produktif juga tentunya.
 
 Gimana menurut kalian tentang aplikasi satu ini?
 
-#kasts #kde #plasma #linux #l7os #langitketujuh #langitketujuhos #linuxdesain #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio
+#kde #plasma #linux #l7os #langitketujuh #langitketujuhos #linuxdesain #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio
 
+Facebook: langitketujuh.id
+Instagram: @langitketujuh.id
+Telegram: langitketujuh_id
+Sosmed lainnya: follow.langitketujuh.id
 
 TELEGRAM:
 Suka dengerin podcast? Sekarang udah ada kasts, aplikasi podcast yang terintegrasi KDE plasma. Setiap podcast bisa diunduh dan digunakan secara offline. Selain itu terdapat manajemen episode, fitur pencarian serta antrian. Aplikasi ini cukup banget buat nyari tips, ide dan inspirasi. Tentunya biar lebih produktif.
@@ -13,11 +19,7 @@ Suka dengerin podcast? Sekarang udah ada kasts, aplikasi podcast yang terintegra
 Cara install di LangitKetujuh OS:
 $ get kasts
 
-Selengkapnya:
-https://www.instagram.com/p/ChMkncghObj
-
-Komunitas:
-@langitketujuh_group
-
-Sosial media:
-https://link.langitketujuh.id
+Facebook: langitketujuh.id
+Instagram: @langitketujuh.id
+Telegram: langitketujuh_id
+Sosmed lainnya: https://follow.langitketujuh.id
