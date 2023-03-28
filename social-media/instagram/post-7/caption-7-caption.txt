@@ -1,0 +1,14 @@
+NEW RILIS! Perubahan di LangitKetujuh OS menggunakan dobel kernel dengan kernel LTS agar hardware keluaran lama tetap mendukung. Saat liveusb akan ada pilihan masuk ke kernel terbaru atau LTS.
+
+Selain itu menambahkan beberapa aplikasi KDE seperti sweeper, dragon-player, krename, dan kfind. Dan yang paling penting menambahkan font pengganti MS Office seperti liberation yang kompatibel dengan times new roman, arial, dan courier new. Adalagi caladea pengganti cambria dan carlito pengganti calibri.
+
+Tampilan wallpaper juga lebih futuristik jika dibandingkan sebelumnya. Efek magic lamp dan wobbly windows, dan masih banyak lagi catatan rilisnya.
+
+Yuk coba LangitKetujuh OS sekarang. btw, kalau sudah pernah menggunakan edisi studio  masuk saja ke menu > download > resend, kami akan mengirimkan edisi terbaru via email.
+
+#kde #plasma #linux #l7os #langitketujuh #langitketujuhos #linuxdesain #desainer #os #linux #inkscape #krita #gimp #synfig #synfigstudio #blender3d #opentoonz #fontforge #godot #scribus #digikam #rawtherapee #kdenlive #audacity #obsstudio
+
+Facebook: langitketujuh.id
+Instagram: langitketujuh.id
+Telegram: langitketujuh_id
+Sosmed lainnya: https://follow.langitketujuh.id
